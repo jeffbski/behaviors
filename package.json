@@ -1,0 +1,18 @@
+{
+  "name": "behaviors",
+  "description": "Behaviors - A (really) simple way to check a modules export's in node.js. Inspired by behaviors in Erlang.",
+  "version": "0.0.1",
+  "private": true,
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffbski/behaviors.git"
+  },
+  "main": "lib/behaviors.js",
+  "engines": {
+    "node": "0.4"
+  },
+  "dependencies": {
+    "nodeunit" : "~0.5.5"
+  },
+  "devDependencies": {}
+}
